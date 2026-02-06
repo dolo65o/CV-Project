@@ -2,10 +2,6 @@
 
 A single-page personal portfolio and CV website built using HTML. This project showcases the professional profile, skills, education, and experience of a SOC Analyst.
 
-## 🚀 Live Demo from Roadmap sh
-
-[View Project Live]([https://dolo65o.github.io/CV-Project](https://roadmap.sh/projects/single-page-cv))
-
 ## 🛠️ Technologies Used
 
 * **HTML5**: Semantic markup for structure.
