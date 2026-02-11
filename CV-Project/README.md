@@ -19,9 +19,9 @@ This is a static webpage representing a Resume/CV. It includes the following sec
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/dolo65o/CV-Project.git](https://github.com/dolo65o/CV-Project.git)
+    git clone [https://github.com/dolo65o/Basic-Projects.git](https://github.com/dolo65o/Basic-Projects.git)
     ```
-2.  **Navigate to the project folder.**
+2.  **Navigate to the CV-project folder.**
 3.  **Open the file:**
     Double-click `Basic_CV.html` to open it in your default web browser.
 
